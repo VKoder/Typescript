@@ -15,7 +15,7 @@ function giveString(str:string):number{
 console.log(giveString("Hello"))
 
 
-// Declare an array of numbers and initialize it with some values. Log the array to the console.
+// 3) Declare an array of numbers and initialize it with some values. Log the array to the console.
 
 var arrayOfNum:number[]=[4,4,4,4,4]
 console.log(arrayOfNum)

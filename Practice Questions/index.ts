@@ -12,6 +12,10 @@ console.log(num)
 function giveString(str:string):number{
     return str.length
 }
+
+
+
+
 console.log(giveString("Hello"))
 
 
